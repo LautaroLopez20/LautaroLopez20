@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Lautaro López</h1>
+<h1 align="center">Hi there 👋 I'm Lautaro López</h1>
 
 <p align="center">
   Software Development Student · Backend Development · Game Development
